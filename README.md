@@ -2,7 +2,7 @@
 
 ![screenshot](https://raw.githubusercontent.com/qxxxb/matlab-othello/assets/screenshot.png)
 
-Two-player Othello, in MATLAB. This was for my team's software design project
+Two-player Othello in MATLAB. This was for my team's software design project
 for ENGR 1181 at OSU.
 
 ## Usage
